@@ -1,5 +1,6 @@
 # SCT_DA01_Task2
-SCT_DA01_Task2  This repository contains of my internship at SkillCraft Technology under the Data Analytics (DA01)track.
+
+This repository contains of my internship at SkillCraft Technology under the Data Analytics (DA01)track.
 
 ## Task Overview: Titanic Survival Prediction (Exploratory Data Analysis + Machine Learning)
 
@@ -14,7 +15,7 @@ This notebook includes a complete **EDA + ML pipeline** using the **Titanic data
 ### 📁 Files Included:
 - `Titanic Intern.ipynb` — Jupyter notebook with full code, EDA, graphs, and ML modeling.
 
-### 🧰 Tools & Libraries Used:
+### Tools & Libraries Used:
 - Python
 - Pandas
 - Matplotlib, Seaborn
@@ -25,7 +26,7 @@ This notebook includes a complete **EDA + ML pipeline** using the **Titanic data
 - Correlation heatmaps
 - Age, gender, class-based survival comparisons
 
-### 🧠 Machine Learning Model:
+### Machine Learning Model:
 - Used **Decision Tree Classifier** to predict survival.
 - Evaluated model using accuracy score.
 
